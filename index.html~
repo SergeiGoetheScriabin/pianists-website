@@ -13,7 +13,10 @@
     <h1>Here is a website of some of my Favorite Pianists</h1>
     <div class="main">
         <div class="profile">
+            <img class ="homePic" src="https://melody.su/upload/iblock/a00/a006a964a547f54259a91f560e55fa5f.jpg" alt="picture of Heinrich Neuhaus">
+            <a class="name"  href=http://pianists.us/Neuhaus/Neuhaus.html>Heinrich Neuhaus</a>
         </div>
+        <div class="profile">
             <img class ="homePic" src="https://www.pianorarescores.com/wp-content/uploads/2014/07/Samuil-Feinberg.jpg" alt="picture of Samuil Feinberg">
             <a class="name"  href=http://pianists.us/Feinberg/Feinberg.html>Samuil Feinberg</a>
         </div>
